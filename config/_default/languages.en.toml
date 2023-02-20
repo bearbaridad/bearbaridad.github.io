@@ -1,0 +1,29 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "Bearbaridad  - TShirts for Bears"
+logo = "img/logo1x1.png"
+description = "Welcome to BEARBARIDAD, an independent online print-on-demand company specializing in unique t-shirt designs for the bear community. We take pride in providing our clients with one-of-a-kind t-shirt designs that celebrate their unique identities and showcase their sense of humor, style, and personality."
+#copyright = "Copy, _right?_ :thinking_face:"
+
+dateFormat = "2 January 2006"
+
+ [author]
+   name = "bearbaridad."
+   image = "img/logo.png"
+   headline = "T-Shirts for Bears"
+   #bio = "A little bit about you"
+   links = [
+     #{ email = "mailto:hello@your_domain.com" },          
+     { amazon = "https://www.amazon.es/s?rh=n%3A2846220031%2Cp_4%3ABEARBARIDAD+for+BEARS&ref=bl_sl_s_ap_web_2846220031" },
+     #{ latostadora = "https://www.latostadora.com/shop/bearbaridad/designs/#shop" },
+     #{ redbubble = "https://www.redbubble.com/es/people/bearbaridad/explore?page=1&sortOrder=recent" },     
+     { facebook = "https://www.facebook.com/bearbaridad" },
+     { instagram = "https://instagram.com/bearbaridad" },
+     { pinterest = "https://www.pinterest.es/bearbaridad/" },
+     { link = "https://linktr.ee/bearbaridad" }
+   ]

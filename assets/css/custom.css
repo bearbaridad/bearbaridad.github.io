@@ -1,0 +1,17 @@
+.px-1 {
+    padding-left: 0.7rem;
+    padding-right: 0.7rem;
+}
+
+.text-2xl {
+    font-size: 2.0rem;
+    line-height: 2rem;
+}
+
+.mt-1 {
+    margin-top: 1.25rem;
+}
+
+.mt-0 {
+    margin-top: 0.5rem;
+}
