@@ -2,6 +2,7 @@
 title: "About"
 draft: false
 description: "about Bearbaridad"
+summary: "More info about Bearbaridad"
 tags: ["about"]
 ---
 
