@@ -5,7 +5,7 @@ draft: false
 description: "Bearbaridad's Thick Factory tshirt!"
 summary: 💪💪Thick men are very attractive!
 tags: ["tshirts"]
-weight: 1
+weight: 2
 ---
 
 ![tee](featured.jpg)

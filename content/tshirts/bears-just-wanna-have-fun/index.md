@@ -3,7 +3,7 @@ title: "Bears just wanna have fun"
 date: 2023-01-01T00:00:00+01:00
 draft: false
 description: "Bearbaridad's Bears just wanna have fun tshirt!"
-summary: 🥳 The gay bear community is known for their love of having fun and living life to the fullest
+summary: 🥳 show off your bear pride and let the world know that bears just wanna have fun! 🐻🐻🐻
 tags: ["tshirts"]
 weight: 1
 ---

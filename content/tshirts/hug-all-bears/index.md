@@ -5,7 +5,7 @@ draft: false
 description: "Bearbaridad's Hug all the bears tshirt!"
 summary: Hug all the bears! 🐻🐼🐨🐻‍❄️
 tags: ["tshirts"]
-weight: 1
+
 ---
 
 ![tee](featured.jpg)

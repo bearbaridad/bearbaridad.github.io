@@ -5,7 +5,6 @@ draft: false
 description: "Bearbaridad's Shut up! & bring me food tshirt!"
 summary: Just feed me! 🥯🥞🧇🍔🍟🍕🌭🍗🍺🍺🍺
 tags: ["tshirts"]
-weight: 1
 ---
 
 ![tee](featured.jpg)
