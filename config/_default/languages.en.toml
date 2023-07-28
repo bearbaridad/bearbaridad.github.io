@@ -19,11 +19,11 @@ dateFormat = "2 January 2006"
    #bio = "A little bit about you"
    links = [
      #{ email = "mailto:hello@your_domain.com" },                    
-     { redbubble = "https://www.redbubble.com/es/people/bearbaridad/explore?page=1&sortOrder=recent" },     
+     #{ redbubble = "https://www.redbubble.com/es/people/bearbaridad/explore?page=1&sortOrder=recent" },     
      { latostadora = "https://www.latostadora.com/shop/bearbaridad/designs/#shop" },
      { instagram = "https://instagram.com/bearbaridad" },
      { facebook = "https://www.facebook.com/bearbaridad" },     
      { link = "https://linktr.ee/bearbaridad" },     
-     { amazon = "https://www.amazon.es/s?rh=n%3A2846220031%2Cp_4%3ABEARBARIDAD+for+BEARS&ref=bl_sl_s_ap_web_2846220031" },
+     #{ amazon = "https://www.amazon.es/s?rh=n%3A2846220031%2Cp_4%3ABEARBARIDAD+for+BEARS&ref=bl_sl_s_ap_web_2846220031" },
      { pinterest = "https://www.pinterest.es/bearbaridad/" }
    ]
