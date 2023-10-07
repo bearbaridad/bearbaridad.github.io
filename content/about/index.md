@@ -11,7 +11,7 @@ Welcome to BEARBARIDAD, an independent online print-on-demand company specializi
 
 At BEARBARIDAD, we understand the importance of expressing oneself and celebrating one's individuality. That's why we create designs that not only look good but also reflect the values, beliefs, and attitudes of the bear community. Our t-shirts are designed to make a statement, whether you're out and about, at a party, or just lounging at home.
 
-Our designs are available for purchase on a range of marketplaces, like **La Tostadora**. We partner with a third-party printing service to ensure that our clients receive high-quality t-shirts that are both comfortable and durable.
+Our designs are available for purchase on a range of marketplaces, like **La Tostadora** or **Redbubble**. We partner with a third-party printing service to ensure that our clients receive high-quality t-shirts that are both comfortable and durable.
 
 We take our commitment to the bear community seriously and strive to create designs that resonate with our clients. We understand that the bear community is diverse and multifaceted, and we work hard to create designs that reflect this diversity. Whether you're a muscle bear, cub, or daddy, we've got a design that's just right for you.
 

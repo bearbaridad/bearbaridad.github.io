@@ -18,9 +18,9 @@ dateFormat = "2 January 2006"
    headline = "T-Shirts for Bears"
    #bio = "A little bit about you"
    links = [
-     #{ email = "mailto:hello@your_domain.com" },                    
-     #{ redbubble = "https://www.redbubble.com/es/people/bearbaridad/explore?page=1&sortOrder=recent" },     
+     #{ email = "mailto:hello@your_domain.com" },                         
      { latostadora = "https://www.latostadora.com/shop/bearbaridad/designs/#shop" },
+     { redbubble = "https://www.redbubble.com/es/people/bearbaridad/explore?page=1&sortOrder=recent" },     
      { instagram = "https://instagram.com/bearbaridad" },
      { facebook = "https://www.facebook.com/bearbaridad" },     
      { link = "https://linktr.ee/bearbaridad" },     
